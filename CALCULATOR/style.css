@@ -1,0 +1,34 @@
+.main{
+    border: 2px solid grey;
+    width:  260px;
+    margin: 0 auto;
+    height: 260px;
+    border-color: white;
+}
+.result{
+    width: 252px;
+    background-color: lightgray;
+    color: black;
+    padding-top: 18px;
+}
+
+.btn-top{
+ width: 62px;
+ margin-top: 10px;
+ padding-block-end: 10px;
+ margin-top: 22px;
+ text-align: center;
+ border: outset;
+ background-color: lightgray;
+
+
+
+}
+.btn{
+width: 62px;
+padding-block-end: 10px;
+text-align: center;
+margin-top: 10px;
+border: outset;
+background-color: lightgray;
+}
